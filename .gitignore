@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Deno cache and dependencies
+deno.lock
+.vscode/
+*.log
+
+# Build output
+dist/
+public/assets/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Vite cache
+.vite/
+
+
+# System files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+/* Reset margins and paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set a global background color */
+body {
+  background-color: #f0f0f0; /* Light gray background */
+  font-family: Arial, sans-serif; /* Set a default font */
+  color: #333; /* Dark gray text color */
+}
+
+
+/* Style headings */
+h1 {
+  color: #007acc; /* Blue color for main headings */
+  text-align: center;
+}
+
+h3 {
+  color: #555; /* Slightly lighter gray for subheadings */
+  text-align: center;
+}
