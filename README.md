@@ -14,7 +14,7 @@ This repository provides a template for setting up and using Deno with the Imba 
 Run the following command to install all dependencies:
 
 ```bash
-deno install
+deno install --allow-scripts=npm:esbuild@0.15.18
 ```
 
 ### 2. Entry Point
