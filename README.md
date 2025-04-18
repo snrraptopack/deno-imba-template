@@ -29,6 +29,8 @@ The following tasks are defined in the `deno.json` file:
   ```bash
   deno task dev
   ```
+   [vite] (client) error while updating dependencies: PermissionDenied
+  if you get such error just stop the server and delete .vite file and start the server again
 
 - **Build**: Compile the Imba project for production.
   ```bash
