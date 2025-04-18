@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
-import imba from "imba/plugin";
+import {imba} from "vite-plugin-imba"
 
 export default defineConfig({
   plugins: [imba()], // Add the Imba plugin
